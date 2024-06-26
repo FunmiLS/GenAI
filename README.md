@@ -1,4 +1,4 @@
-# OCI-GenAI
+# OCI Generative AI training
 
 #File 1: Running OCI generative AI model 'Command Cohere' in Pycharm. <be>
 #Q: How does a telescope work
