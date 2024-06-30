@@ -4,4 +4,5 @@ The code within this repository was created to gain hands-on experience of the O
 
 ## Files
 Oracle OCI Generative AI Professional.ipynb (Experimenting with OCI Generative AI service)
+
 GenAI Chatbot.ipynb (Creating my own chatbot)
