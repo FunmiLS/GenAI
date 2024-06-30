@@ -1,5 +1,7 @@
 # OCI Generative AI training
 
-#File 1: Running OCI generative AI model 'Command Cohere' in Pycharm. <be>
-#Q: How does a telescope work
-#A: 
+The code within this repository was created to gain hands-on experience with the OCI Gen AI service, explore and experiment with different chatbot functionalities and build a basic chatbot for personal use.
+
+## Files
+Oracle OCI Generative AI Professional.ipynb (Experimenting with OCI Generative AI service)
+GenAI Chatbot.ipynb (Creating my own chatbot)
