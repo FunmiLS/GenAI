@@ -25,9 +25,12 @@ brew update && brew install oci-cli
 
 Check the OCI CLI installation by verifying the version, run the following command:
 
+
+```ruby
 oci --version
-4 - OCI CLI configuration
-Before starting the configuration, get the OCID of your user and your tenancy and save them in a note file:
+```
+3) OCI CLI configuration
+
 
 
 ## Python File - Creating Chatbot Demo
