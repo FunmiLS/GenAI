@@ -16,12 +16,16 @@ Required as it will allow you to install OCI CLI.
 
 To install Homebrew, open your terminal and run the following command:
 
+```ruby
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 2) Install OCI CLI
 For Mac OS run the following command from your terminal:
 
+```ruby
 brew update && brew install oci-cli
+```
 
 Check the OCI CLI installation by verifying the version, run the following command:
 
