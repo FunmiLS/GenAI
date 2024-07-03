@@ -2,7 +2,11 @@
 
 ## Introduction
 
-The code within this repository was created to gain hands-on experience with the OCI Gen AI service, explore and experiment with different chatbot functionalities and build a basic chatbot.
+The code within this repository was created to gain hands-on experience with the OCI Gen AI service, explore and experiment with different chatbot functionalities and build a basic chatbot using Meta's Llama 2 model and Streamlit
+
+## Files
+- Oracle OCI Generative AI Professional.ipynb (Experimenting with OCI Generative AI service)
+- Streamlit_Chatbot.ipynb (Streamlit chatbot)
 
 ## Jupyter Notebook - Experimenting with OCI Generative AI service
 ### Prequisities 
@@ -37,18 +41,19 @@ oci --version
 
 
 
-## Python File - Creating Chatbot Demo
+## Python File - Creating a basic Streamlit Chatbot
 ### Required Packages
-- oci
-- oracle-ads
-- langchain
-- langhchain-community
-- chromadb
-- faisss-cpu
 - streamlit
-- python-multipart
-- pydantic
-- pypdf
+- replicate
 
-## Files
-- Oracle OCI Generative AI Professional.ipynb (Experimenting with OCI Generative AI service)
+## Prerequisites
+- A replicate API key
+
+## Instructions
+1. Create an API key on Replicate
+2. Save Python file to computer
+3. Open terminal and run the command
+   
+```ruby
+streamlit run Streamlit_Chatbot.py
+```
