@@ -68,4 +68,32 @@ Check the OCI CLI installation by verifying the version, run the following comma
 oci --version
 ```
 3) OCI CLI configuration
+Login to your OCI account and save your OCID for your User and OCID for your tenancy to a notepad.
 
+```ruby
+oci setup config
+```
+Then following the following steps:
+ENTER > paste your OCID (user) > ENTER > paste your OCID (tenancy) > ENTER > type in your region > ENTER > Y > ENTER > ENTER > N/A > N/A
+
+3) Add your OCI API Key
+
+```ruby
+cd .oci
+```
+
+```ruby
+ls
+```
+Display your public key
+
+```ruby
+cat oci_api_key_public.pem
+```
+Copy your OCI public key.
+
+In OCI, add a new API key.
+
+Select Paste Public Key.
+
+Paste your public key into the window.
