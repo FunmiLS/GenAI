@@ -26,7 +26,11 @@ streamlit run streamlit_chatbot.py
 ```
 
 ## Screenshots
-![image](https://github.com/FunmiLS/OCI-GenAI/assets/111074004/3cdc2f40-d707-44ec-917e-59534037569e)
+![Screenshot 2024-07-03 161334](https://github.com/FunmiLS/GenAI/assets/111074004/91fc6cad-9286-4d2a-92d2-4720c848e67a)
+
+![Screenshot 2024-07-03 161902](https://github.com/FunmiLS/GenAI/assets/111074004/52175c22-ac6a-4576-b6a0-33ad73eaedc4)
+
+
 
 
 ## Jupyter Notebook - Experimenting with OCI Generative AI service
