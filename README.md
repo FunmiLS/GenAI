@@ -48,7 +48,7 @@ streamlit run streamlit_chatbot.py
 1) Install Homebrew
 Required as it will allow you to install OCI CLI.
 
-To install Homebrew, open your terminal and run the following command:
+Open your terminal and run the command:
 
 ```ruby
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -61,14 +61,14 @@ For Mac OS run the following command from your terminal:
 brew update && brew install oci-cli
 ```
 
-Check the OCI CLI installation by verifying the version, run the following command:
+Check the OCI CLI installation by verifying the version, run the command:
 
 
 ```ruby
 oci --version
 ```
 3) OCI CLI configuration
-Login to your OCI account and save your OCID for your User and OCID for your tenancy to a notepad.
+Login to your OCI account and save your OCID for your User and OCID for your Tenancy to a notepad.
 
 ```ruby
 oci setup config
@@ -85,6 +85,7 @@ cd .oci
 ```ruby
 ls
 ```
+
 Display your public key
 
 ```ruby
