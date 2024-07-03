@@ -6,7 +6,24 @@ The code within this repository was created to gain hands-on experience with the
 
 ## Files
 - Oracle OCI Generative AI Professional.ipynb (Experimenting with OCI Generative AI service)
-- Streamlit_Chatbot.ipynb (Streamlit chatbot)
+- streamlit_chatbot.py (Streamlit chatbot)
+
+## Python File - Creating a basic Streamlit Chatbot
+### Required Packages
+- streamlit
+- replicate
+
+## Prerequisites
+- A replicate API key
+
+## Instructions
+1. Create an API key on Replicate (https://replicate.com/account/api-tokens)
+2. Save Python file to computer
+3. Open terminal and run the command
+   
+```ruby
+streamlit run streamlit_chatbot.py
+```
 
 ## Jupyter Notebook - Experimenting with OCI Generative AI service
 ### Prequisities 
@@ -39,21 +56,3 @@ oci --version
 ```
 3) OCI CLI configuration
 
-
-
-## Python File - Creating a basic Streamlit Chatbot
-### Required Packages
-- streamlit
-- replicate
-
-## Prerequisites
-- A replicate API key
-
-## Instructions
-1. Create an API key on Replicate
-2. Save Python file to computer
-3. Open terminal and run the command
-   
-```ruby
-streamlit run Streamlit_Chatbot.py
-```
