@@ -18,7 +18,7 @@ The code within this repository was created to gain hands-on experience with the
 
 ## Instructions
 1. Create an API key on Replicate (https://replicate.com/account/api-tokens)
-2. Save Python file to computer
+2. Save streamlit_chatbot.py to computer
 3. Open terminal and run the command
    
 ```ruby
@@ -30,11 +30,16 @@ streamlit run streamlit_chatbot.py
 
 
 ## Jupyter Notebook - Experimenting with OCI Generative AI service
-### Prequisities 
-Package: OCI
-Oracle Cloud: Oracle Cloud Infrastructure tenant and a user account created in that tenant.
 
-### Set up steps
+### Required Packages
+- oci
+  
+### Prequisities 
+- Oracle Cloud Infrastructure tenant and a user account created in that tenant.
+
+### Instructions
+
+#### Set up your OCI config file (if not done so already)
 
 1) Install Homebrew
 Required as it will allow you to install OCI CLI.
