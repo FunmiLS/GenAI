@@ -1,4 +1,4 @@
-# OCI Generative AI training
+# Generative AI
 
 ## Introduction
 
