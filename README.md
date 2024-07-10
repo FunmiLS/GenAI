@@ -8,7 +8,7 @@ The code within this repository was created to gain hands-on experience with the
 - streamlit_chatbot.py (Streamlit chatbot)
 - Oracle OCI Generative AI Professional.ipynb (Experimenting with OCI Generative AI service)
 
-## 1. Creat a basic Streamlit chatbot
+## 1. Create a basic Streamlit chatbot
 ### Required Packages
 - streamlit
 - replicate
