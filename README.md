@@ -38,12 +38,12 @@ streamlit run streamlit_chatbot.py
 ### Required Packages
 - oci
   
-### Prequisities 
+### Prerequisites 
 - Oracle Cloud Infrastructure tenant and a user account created in that tenant.
 
 ### Instructions
 
-#### Set up your OCI config file (if not done so already)
+#### Set up your OCI config file (if you have not done so already)
 
 1) Install Homebrew
 Required as it will allow you to install OCI CLI.
@@ -73,7 +73,7 @@ Login to your OCI account and save your OCID for your User and OCID for your Ten
 ```ruby
 oci setup config
 ```
-Then following the following steps:
+Then follow the next steps:
 ENTER > paste your OCID (user) > ENTER > paste your OCID (tenancy) > ENTER > type in your region > ENTER > Y > ENTER > ENTER > N/A > N/A
 
 3) Add your OCI API Key
