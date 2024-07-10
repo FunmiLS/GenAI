@@ -13,10 +13,10 @@ The code within this repository was created to gain hands-on experience with the
 - streamlit
 - replicate
 
-## Prerequisites
+### Prerequisites
 - A replicate API key
 
-## Instructions
+### Instructions
 1. Create an API key on Replicate (https://replicate.com/account/api-tokens)
 2. Save streamlit_chatbot.py to computer
 3. Open terminal and run the command
@@ -25,7 +25,7 @@ The code within this repository was created to gain hands-on experience with the
 streamlit run streamlit_chatbot.py
 ```
 
-## Screenshots
+### Screenshots
 ![Screenshot 2024-07-03 161334](https://github.com/FunmiLS/GenAI/assets/111074004/91fc6cad-9286-4d2a-92d2-4720c848e67a)
 
 ![Screenshot 2024-07-03 161902](https://github.com/FunmiLS/GenAI/assets/111074004/52175c22-ac6a-4576-b6a0-33ad73eaedc4)
